@@ -24,7 +24,7 @@ namespace TigerSoccerClub
         {
             int i = 0;
             double total = 0;
-            int jerseyamt = 110;
+            int jerseyamt = 1500;
             String Name = "";
             String Registration = "";
             String Jersey = "";
